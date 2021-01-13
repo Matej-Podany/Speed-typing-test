@@ -8,3 +8,4 @@ How to use:
 2. One line in txt file means one testing information
 3. Name for the data is required in this form: "data.txt"
 4. Data has to be sentences, program is not made for sigle word speed testing
+5. Maximum length of one testing information (one sentence) is 70 characters.
